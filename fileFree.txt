@@ -1,1 +1,0 @@
-{clave5=50, clave4=40, clave3=30, clave2=20, clave1=10}
